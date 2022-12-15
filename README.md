@@ -1,2 +1,1 @@
-# TestVagrant
-My Subscriptions
+weeks are saved in the form of double,the names of weeks are saved in the form of string, a function newspaper is used to iterate through the prices of the subscriptions and the names an array list is used to get the subscription amount.
